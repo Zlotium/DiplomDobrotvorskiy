@@ -1,0 +1,22 @@
+<XmlForConvertSvg>
+<Layer Color="blue" Name="A">
+  <Polygon Name="Polygon 1a9c9dba-992e-41cb-9e28-d0ee0c34caba">
+    <Coordinate>-200000</Coordinate>
+    <Coordinate>-200000</Coordinate>
+    <Coordinate>-200000</Coordinate>
+    <Coordinate>-400000</Coordinate>
+    <Coordinate>-400000</Coordinate>
+    <Coordinate>-200000</Coordinate>
+    <Coordinate>-400000</Coordinate>
+    <Coordinate>-400000</Coordinate>
+  </Polygon>
+  <Ribs>
+    <Rib>
+      <Coordinate>-10500</Coordinate>
+      <Coordinate>-10500</Coordinate>
+      <Coordinate>-18500</Coordinate>
+      <Coordinate>-18500</Coordinate>
+    </Rib>
+  </Ribs>
+</Layer>
+</XmlForConvertSvg>

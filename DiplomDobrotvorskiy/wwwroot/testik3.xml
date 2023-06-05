@@ -1,0 +1,38 @@
+<XmlForConvertSvg>
+<Layer Color="red" Name="B">
+<Polygon Name="Polygon 1a9c9dba-992e-41cb-9e28-d0ee0c34caba">
+    <Coordinate>200000</Coordinate>
+    <Coordinate>200000</Coordinate>
+    <Coordinate>200000</Coordinate>
+    <Coordinate>400000</Coordinate>
+    <Coordinate>400000</Coordinate>
+    <Coordinate>200000</Coordinate>
+    <Coordinate>400000</Coordinate>
+    <Coordinate>400000</Coordinate>
+  </Polygon>
+  <Polygon Name="Polygon acf384ca-2ddc-4470-9029-8303d3f45619">
+    <Coordinate>500</Coordinate>
+    <Coordinate>500</Coordinate>
+    <Coordinate>500</Coordinate>
+    <Coordinate>700</Coordinate>
+    <Coordinate>1300</Coordinate>
+    <Coordinate>500</Coordinate>
+    <Coordinate>1300</Coordinate>
+    <Coordinate>700</Coordinate>
+  </Polygon>
+  <Ribs>
+    <Rib>
+      <Coordinate>18000</Coordinate>
+      <Coordinate>15000</Coordinate>
+      <Coordinate>500</Coordinate>
+      <Coordinate>500</Coordinate>
+    </Rib>
+    <Rib>
+      <Coordinate>10500</Coordinate>
+      <Coordinate>10500</Coordinate>
+      <Coordinate>18500</Coordinate>
+      <Coordinate>18500</Coordinate>
+    </Rib>
+  </Ribs>
+</Layer>
+</XmlForConvertSvg>

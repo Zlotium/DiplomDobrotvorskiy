@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="600" height="600">
+<line x1="450" y1="450" x2="450" y2="600" stroke="red"/>
+<line x1="450" y1="600" x2="600" y2="450" stroke="red"/>
+<line x1="600" y1="450" x2="600" y2="600" stroke="red"/>
+<line x1="600" y1="600" x2="450" y2="450" stroke="red"/>
+<line x1="300.375" y1="300.375" x2="300.375" y2="300.525" stroke="red"/>
+<line x1="300.375" y1="300.525" x2="300.975" y2="300.375" stroke="red"/>
+<line x1="300.975" y1="300.375" x2="300.975" y2="300.525" stroke="red"/>
+<line x1="300.975" y1="300.525" x2="300.375" y2="300.375" stroke="red"/>
+<line x1="313.5" y1="311.25" x2="300.375" y2="300.375" stroke="red"/>
+<line x1="307.875" y1="307.875" x2="313.875" y2="313.875" stroke="red"/>
+<line x1="150" y1="150" x2="150" y2="0" stroke="blue"/>
+<line x1="150" y1="0" x2="0" y2="150" stroke="blue"/>
+<line x1="0" y1="150" x2="0" y2="0" stroke="blue"/>
+<line x1="0" y1="0" x2="150" y2="150" stroke="blue"/>
+<line x1="292.125" y1="292.125" x2="286.125" y2="286.125" stroke="blue"/>
+</svg>
